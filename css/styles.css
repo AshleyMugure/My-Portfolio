@@ -9,11 +9,11 @@ img{
   padding-right: 50px;
 }
 h4{
-  color: black;
+  color: rgba(82, 18, 143, 0.678);
   font-style: normal;
   font-family: 'Courier New', Courier, monospace;
 }
-.education{
-  color: brown;
+.info{
+  color: rgb(141, 37, 37);
   font-family: cursive;
 }
