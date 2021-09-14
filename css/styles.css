@@ -4,3 +4,8 @@ h2{
 h4{
   text-decoration: rgb(71, 173, 71);
 }
+img{
+  float: left;
+  padding-right: 50px;
+  
+}
