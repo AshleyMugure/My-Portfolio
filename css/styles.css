@@ -7,5 +7,13 @@ h4{
 img{
   float: left;
   padding-right: 50px;
-  
+}
+h4{
+  color: black;
+  font-style: normal;
+  font-family: 'Courier New', Courier, monospace;
+}
+.education{
+  color: brown;
+  font-family: cursive;
 }
